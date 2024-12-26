@@ -1,0 +1,44 @@
+header {
+    background-color: #fb6f92;
+    color: #ffe5ec;
+    padding: 20px;
+    text-align: center;
+  }
+
+  nav {
+    margin-top: 10px;
+  }
+
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
+  h4{
+    color: #fb6f92;
+  }
+  h2{
+    color: #ff0054;
+  }
+  #s{
+    color: #ff5400;
+  }
+  #j{
+    color:#8a817c;
+  }
+  footer {
+    background-color: #f28482;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  body{
+    background-image:url(https://img.freepik.com/premium-photo/chamomile-flower-beautiful-delicate-pink-background_257163-1516.jpg);
+  }
